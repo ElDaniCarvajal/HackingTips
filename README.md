@@ -1,2 +1,2 @@
 # HackingTips
-Hacking Tips and Tools
+Hacking Tips, Tools and Oneliners
